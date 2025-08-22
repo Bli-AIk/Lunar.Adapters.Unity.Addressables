@@ -11,10 +11,10 @@ namespace Lunar.Adapters.Unity.Addressables
     public class AddressablesAdapter : IResources, IResourcesAsync
     {
         [Obsolete("Use LoadAsync instead.")]
-        public T Load<T>(string key)
+        public T Load<T>(string path)
         {
             ResourcesUtility.ValidateUnityObjectType<T>("Addressables.LoadAsset");
-            return UnityEngine.AddressableAssets.Addressables.LoadAsset<T>(key).WaitForCompletion();
+            return UnityEngine.AddressableAssets.Addressables.LoadAsset<T>(path).WaitForCompletion();
         }
 
         [Obsolete("Use LoadAllAsync instead.")]
@@ -68,14 +68,14 @@ namespace Lunar.Adapters.Unity.Addressables
             return await HandleAsyncOperation(handle, path, ct);
         }
 
-        public async Task<IEnumerable<T>> LoadAllAsync<T>(string path,
+        public static async Task<IEnumerable<T>> LoadAllAsync<T>(string path,
             UnityEngine.AddressableAssets.Addressables.MergeMode mergeMode,
             CancellationToken ct = new())
         {
             return await LoadAllAsync<T>(path, null, mergeMode, ct);
         }
 
-        public async Task<IEnumerable<T>> LoadAllAsync<T>(string path,
+        public static async Task<IEnumerable<T>> LoadAllAsync<T>(string path,
             Action<T> callback,
             CancellationToken ct = new())
         {
@@ -83,14 +83,14 @@ namespace Lunar.Adapters.Unity.Addressables
         }
 
 
-        public async Task<IEnumerable<T>> LoadAllAsync<T>(IEnumerable<string> paths,
+        public static async Task<IEnumerable<T>> LoadAllAsync<T>(IEnumerable<string> paths,
             UnityEngine.AddressableAssets.Addressables.MergeMode mergeMode,
             CancellationToken ct = new())
         {
             return await LoadAllAsync<T>(paths, null, mergeMode, ct);
         }
 
-        public async Task<IEnumerable<T>> LoadAllAsync<T>(IEnumerable<string> paths,
+        public static async Task<IEnumerable<T>> LoadAllAsync<T>(IEnumerable<string> paths,
             Action<T> callback,
             CancellationToken ct = new())
         {

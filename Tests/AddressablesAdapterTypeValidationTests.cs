@@ -1,5 +1,6 @@
 using System;
 using System.Threading;
+using System.Threading.Tasks;
 using NUnit.Framework;
 
 namespace Lunar.Adapters.Unity.Addressables.Tests
@@ -31,8 +32,9 @@ namespace Lunar.Adapters.Unity.Addressables.Tests
             Assert.Throws<InvalidOperationException>(() =>
             {
                 // static overload also validates type right away
-                var task = AddressablesAdapter.LoadAllAsync<int>("somePath", null, UnityEngine.AddressableAssets.Addressables.MergeMode.None,
-                    CancellationToken.None);
+                Task.Run(() => AddressablesAdapter.LoadAllAsync<int>("somePath", null,
+                    UnityEngine.AddressableAssets.Addressables.MergeMode.None,
+                    CancellationToken.None));
             });
         }
 
@@ -42,7 +44,7 @@ namespace Lunar.Adapters.Unity.Addressables.Tests
         {
             Assert.Throws<InvalidOperationException>(() =>
             {
-                var result = AddressablesAdapter.LoadAll<int>("somePath", null);
+                AddressablesAdapter.LoadAll<int>("somePath", null);
             });
         }
     }
