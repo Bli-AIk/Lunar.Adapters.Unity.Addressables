@@ -1,0 +1,249 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Lunar.Adapters.Unity.Addressables
+  name: Lunar.Adapters.Unity.Addressables
+  href: api/Lunar.Adapters.Unity.Addressables.html
+  commentId: N:Lunar.Adapters.Unity.Addressables
+  fullName: Lunar.Adapters.Unity.Addressables
+  nameWithType: Lunar.Adapters.Unity.Addressables
+- uid: Lunar.Adapters.Unity.Addressables.AddressablesAdapter
+  name: AddressablesAdapter
+  href: api/Lunar.Adapters.Unity.Addressables.AddressablesAdapter.html
+  commentId: T:Lunar.Adapters.Unity.Addressables.AddressablesAdapter
+  fullName: Lunar.Adapters.Unity.Addressables.AddressablesAdapter
+  nameWithType: AddressablesAdapter
+- uid: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.Load*
+  name: Load
+  href: api/Lunar.Adapters.Unity.Addressables.AddressablesAdapter.html#Lunar_Adapters_Unity_Addressables_AddressablesAdapter_Load_
+  commentId: Overload:Lunar.Adapters.Unity.Addressables.AddressablesAdapter.Load
+  isSpec: "True"
+  fullName: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.Load
+  nameWithType: AddressablesAdapter.Load
+- uid: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAll*
+  name: LoadAll
+  href: api/Lunar.Adapters.Unity.Addressables.AddressablesAdapter.html#Lunar_Adapters_Unity_Addressables_AddressablesAdapter_LoadAll_
+  commentId: Overload:Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAll
+  isSpec: "True"
+  fullName: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAll
+  nameWithType: AddressablesAdapter.LoadAll
+- uid: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync*
+  name: LoadAllAsync
+  href: api/Lunar.Adapters.Unity.Addressables.AddressablesAdapter.html#Lunar_Adapters_Unity_Addressables_AddressablesAdapter_LoadAllAsync_
+  commentId: Overload:Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync
+  isSpec: "True"
+  fullName: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync
+  nameWithType: AddressablesAdapter.LoadAllAsync
+- uid: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync``1(System.Collections.Generic.IEnumerable{System.String},System.Action{``0},System.Threading.CancellationToken)
+  name: LoadAllAsync<T>(IEnumerable<string>, Action<T>, CancellationToken)
+  href: api/Lunar.Adapters.Unity.Addressables.AddressablesAdapter.html#Lunar_Adapters_Unity_Addressables_AddressablesAdapter_LoadAllAsync__1_System_Collections_Generic_IEnumerable_System_String__System_Action___0__System_Threading_CancellationToken_
+  commentId: M:Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync``1(System.Collections.Generic.IEnumerable{System.String},System.Action{``0},System.Threading.CancellationToken)
+  name.vb: LoadAllAsync(Of T)(IEnumerable(Of String), Action(Of T), CancellationToken)
+  fullName: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync<T>(System.Collections.Generic.IEnumerable<string>, System.Action<T>, System.Threading.CancellationToken)
+  fullName.vb: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync(Of T)(System.Collections.Generic.IEnumerable(Of String), System.Action(Of T), System.Threading.CancellationToken)
+  nameWithType: AddressablesAdapter.LoadAllAsync<T>(IEnumerable<string>, Action<T>, CancellationToken)
+  nameWithType.vb: AddressablesAdapter.LoadAllAsync(Of T)(IEnumerable(Of String), Action(Of T), CancellationToken)
+- uid: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync``1(System.Collections.Generic.IEnumerable{System.String},System.Action{``0},UnityEngine.AddressableAssets.Addressables.MergeMode,System.Threading.CancellationToken)
+  name: LoadAllAsync<T>(IEnumerable<string>, Action<T>, MergeMode, CancellationToken)
+  href: api/Lunar.Adapters.Unity.Addressables.AddressablesAdapter.html#Lunar_Adapters_Unity_Addressables_AddressablesAdapter_LoadAllAsync__1_System_Collections_Generic_IEnumerable_System_String__System_Action___0__UnityEngine_AddressableAssets_Addressables_MergeMode_System_Threading_CancellationToken_
+  commentId: M:Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync``1(System.Collections.Generic.IEnumerable{System.String},System.Action{``0},UnityEngine.AddressableAssets.Addressables.MergeMode,System.Threading.CancellationToken)
+  name.vb: LoadAllAsync(Of T)(IEnumerable(Of String), Action(Of T), MergeMode, CancellationToken)
+  fullName: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync<T>(System.Collections.Generic.IEnumerable<string>, System.Action<T>, UnityEngine.AddressableAssets.Addressables.MergeMode, System.Threading.CancellationToken)
+  fullName.vb: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync(Of T)(System.Collections.Generic.IEnumerable(Of String), System.Action(Of T), UnityEngine.AddressableAssets.Addressables.MergeMode, System.Threading.CancellationToken)
+  nameWithType: AddressablesAdapter.LoadAllAsync<T>(IEnumerable<string>, Action<T>, UnityEngine.AddressableAssets.Addressables.MergeMode, CancellationToken)
+  nameWithType.vb: AddressablesAdapter.LoadAllAsync(Of T)(IEnumerable(Of String), Action(Of T), UnityEngine.AddressableAssets.Addressables.MergeMode, CancellationToken)
+- uid: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync``1(System.Collections.Generic.IEnumerable{System.String},System.Threading.CancellationToken)
+  name: LoadAllAsync<T>(IEnumerable<string>, CancellationToken)
+  href: api/Lunar.Adapters.Unity.Addressables.AddressablesAdapter.html#Lunar_Adapters_Unity_Addressables_AddressablesAdapter_LoadAllAsync__1_System_Collections_Generic_IEnumerable_System_String__System_Threading_CancellationToken_
+  commentId: M:Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync``1(System.Collections.Generic.IEnumerable{System.String},System.Threading.CancellationToken)
+  name.vb: LoadAllAsync(Of T)(IEnumerable(Of String), CancellationToken)
+  fullName: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync<T>(System.Collections.Generic.IEnumerable<string>, System.Threading.CancellationToken)
+  fullName.vb: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync(Of T)(System.Collections.Generic.IEnumerable(Of String), System.Threading.CancellationToken)
+  nameWithType: AddressablesAdapter.LoadAllAsync<T>(IEnumerable<string>, CancellationToken)
+  nameWithType.vb: AddressablesAdapter.LoadAllAsync(Of T)(IEnumerable(Of String), CancellationToken)
+- uid: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync``1(System.Collections.Generic.IEnumerable{System.String},UnityEngine.AddressableAssets.Addressables.MergeMode,System.Threading.CancellationToken)
+  name: LoadAllAsync<T>(IEnumerable<string>, MergeMode, CancellationToken)
+  href: api/Lunar.Adapters.Unity.Addressables.AddressablesAdapter.html#Lunar_Adapters_Unity_Addressables_AddressablesAdapter_LoadAllAsync__1_System_Collections_Generic_IEnumerable_System_String__UnityEngine_AddressableAssets_Addressables_MergeMode_System_Threading_CancellationToken_
+  commentId: M:Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync``1(System.Collections.Generic.IEnumerable{System.String},UnityEngine.AddressableAssets.Addressables.MergeMode,System.Threading.CancellationToken)
+  name.vb: LoadAllAsync(Of T)(IEnumerable(Of String), MergeMode, CancellationToken)
+  fullName: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync<T>(System.Collections.Generic.IEnumerable<string>, UnityEngine.AddressableAssets.Addressables.MergeMode, System.Threading.CancellationToken)
+  fullName.vb: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync(Of T)(System.Collections.Generic.IEnumerable(Of String), UnityEngine.AddressableAssets.Addressables.MergeMode, System.Threading.CancellationToken)
+  nameWithType: AddressablesAdapter.LoadAllAsync<T>(IEnumerable<string>, UnityEngine.AddressableAssets.Addressables.MergeMode, CancellationToken)
+  nameWithType.vb: AddressablesAdapter.LoadAllAsync(Of T)(IEnumerable(Of String), UnityEngine.AddressableAssets.Addressables.MergeMode, CancellationToken)
+- uid: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync``1(System.String,System.Action{``0},System.Threading.CancellationToken)
+  name: LoadAllAsync<T>(string, Action<T>, CancellationToken)
+  href: api/Lunar.Adapters.Unity.Addressables.AddressablesAdapter.html#Lunar_Adapters_Unity_Addressables_AddressablesAdapter_LoadAllAsync__1_System_String_System_Action___0__System_Threading_CancellationToken_
+  commentId: M:Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync``1(System.String,System.Action{``0},System.Threading.CancellationToken)
+  name.vb: LoadAllAsync(Of T)(String, Action(Of T), CancellationToken)
+  fullName: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync<T>(string, System.Action<T>, System.Threading.CancellationToken)
+  fullName.vb: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync(Of T)(String, System.Action(Of T), System.Threading.CancellationToken)
+  nameWithType: AddressablesAdapter.LoadAllAsync<T>(string, Action<T>, CancellationToken)
+  nameWithType.vb: AddressablesAdapter.LoadAllAsync(Of T)(String, Action(Of T), CancellationToken)
+- uid: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync``1(System.String,System.Action{``0},UnityEngine.AddressableAssets.Addressables.MergeMode,System.Threading.CancellationToken)
+  name: LoadAllAsync<T>(string, Action<T>, MergeMode, CancellationToken)
+  href: api/Lunar.Adapters.Unity.Addressables.AddressablesAdapter.html#Lunar_Adapters_Unity_Addressables_AddressablesAdapter_LoadAllAsync__1_System_String_System_Action___0__UnityEngine_AddressableAssets_Addressables_MergeMode_System_Threading_CancellationToken_
+  commentId: M:Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync``1(System.String,System.Action{``0},UnityEngine.AddressableAssets.Addressables.MergeMode,System.Threading.CancellationToken)
+  name.vb: LoadAllAsync(Of T)(String, Action(Of T), MergeMode, CancellationToken)
+  fullName: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync<T>(string, System.Action<T>, UnityEngine.AddressableAssets.Addressables.MergeMode, System.Threading.CancellationToken)
+  fullName.vb: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync(Of T)(String, System.Action(Of T), UnityEngine.AddressableAssets.Addressables.MergeMode, System.Threading.CancellationToken)
+  nameWithType: AddressablesAdapter.LoadAllAsync<T>(string, Action<T>, UnityEngine.AddressableAssets.Addressables.MergeMode, CancellationToken)
+  nameWithType.vb: AddressablesAdapter.LoadAllAsync(Of T)(String, Action(Of T), UnityEngine.AddressableAssets.Addressables.MergeMode, CancellationToken)
+- uid: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync``1(System.String,System.Threading.CancellationToken)
+  name: LoadAllAsync<T>(string, CancellationToken)
+  href: api/Lunar.Adapters.Unity.Addressables.AddressablesAdapter.html#Lunar_Adapters_Unity_Addressables_AddressablesAdapter_LoadAllAsync__1_System_String_System_Threading_CancellationToken_
+  commentId: M:Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync``1(System.String,System.Threading.CancellationToken)
+  name.vb: LoadAllAsync(Of T)(String, CancellationToken)
+  fullName: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync<T>(string, System.Threading.CancellationToken)
+  fullName.vb: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync(Of T)(String, System.Threading.CancellationToken)
+  nameWithType: AddressablesAdapter.LoadAllAsync<T>(string, CancellationToken)
+  nameWithType.vb: AddressablesAdapter.LoadAllAsync(Of T)(String, CancellationToken)
+- uid: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync``1(System.String,UnityEngine.AddressableAssets.Addressables.MergeMode,System.Threading.CancellationToken)
+  name: LoadAllAsync<T>(string, MergeMode, CancellationToken)
+  href: api/Lunar.Adapters.Unity.Addressables.AddressablesAdapter.html#Lunar_Adapters_Unity_Addressables_AddressablesAdapter_LoadAllAsync__1_System_String_UnityEngine_AddressableAssets_Addressables_MergeMode_System_Threading_CancellationToken_
+  commentId: M:Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync``1(System.String,UnityEngine.AddressableAssets.Addressables.MergeMode,System.Threading.CancellationToken)
+  name.vb: LoadAllAsync(Of T)(String, MergeMode, CancellationToken)
+  fullName: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync<T>(string, UnityEngine.AddressableAssets.Addressables.MergeMode, System.Threading.CancellationToken)
+  fullName.vb: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAllAsync(Of T)(String, UnityEngine.AddressableAssets.Addressables.MergeMode, System.Threading.CancellationToken)
+  nameWithType: AddressablesAdapter.LoadAllAsync<T>(string, UnityEngine.AddressableAssets.Addressables.MergeMode, CancellationToken)
+  nameWithType.vb: AddressablesAdapter.LoadAllAsync(Of T)(String, UnityEngine.AddressableAssets.Addressables.MergeMode, CancellationToken)
+- uid: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAll``1(System.Collections.Generic.IEnumerable{System.String})
+  name: LoadAll<T>(IEnumerable<string>)
+  href: api/Lunar.Adapters.Unity.Addressables.AddressablesAdapter.html#Lunar_Adapters_Unity_Addressables_AddressablesAdapter_LoadAll__1_System_Collections_Generic_IEnumerable_System_String__
+  commentId: M:Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAll``1(System.Collections.Generic.IEnumerable{System.String})
+  name.vb: LoadAll(Of T)(IEnumerable(Of String))
+  fullName: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAll<T>(System.Collections.Generic.IEnumerable<string>)
+  fullName.vb: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAll(Of T)(System.Collections.Generic.IEnumerable(Of String))
+  nameWithType: AddressablesAdapter.LoadAll<T>(IEnumerable<string>)
+  nameWithType.vb: AddressablesAdapter.LoadAll(Of T)(IEnumerable(Of String))
+- uid: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAll``1(System.Collections.Generic.IEnumerable{System.String},System.Action{``0})
+  name: LoadAll<T>(IEnumerable<string>, Action<T>)
+  href: api/Lunar.Adapters.Unity.Addressables.AddressablesAdapter.html#Lunar_Adapters_Unity_Addressables_AddressablesAdapter_LoadAll__1_System_Collections_Generic_IEnumerable_System_String__System_Action___0__
+  commentId: M:Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAll``1(System.Collections.Generic.IEnumerable{System.String},System.Action{``0})
+  name.vb: LoadAll(Of T)(IEnumerable(Of String), Action(Of T))
+  fullName: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAll<T>(System.Collections.Generic.IEnumerable<string>, System.Action<T>)
+  fullName.vb: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAll(Of T)(System.Collections.Generic.IEnumerable(Of String), System.Action(Of T))
+  nameWithType: AddressablesAdapter.LoadAll<T>(IEnumerable<string>, Action<T>)
+  nameWithType.vb: AddressablesAdapter.LoadAll(Of T)(IEnumerable(Of String), Action(Of T))
+- uid: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAll``1(System.String)
+  name: LoadAll<T>(string)
+  href: api/Lunar.Adapters.Unity.Addressables.AddressablesAdapter.html#Lunar_Adapters_Unity_Addressables_AddressablesAdapter_LoadAll__1_System_String_
+  commentId: M:Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAll``1(System.String)
+  name.vb: LoadAll(Of T)(String)
+  fullName: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAll<T>(string)
+  fullName.vb: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAll(Of T)(String)
+  nameWithType: AddressablesAdapter.LoadAll<T>(string)
+  nameWithType.vb: AddressablesAdapter.LoadAll(Of T)(String)
+- uid: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAll``1(System.String,System.Action{``0})
+  name: LoadAll<T>(string, Action<T>)
+  href: api/Lunar.Adapters.Unity.Addressables.AddressablesAdapter.html#Lunar_Adapters_Unity_Addressables_AddressablesAdapter_LoadAll__1_System_String_System_Action___0__
+  commentId: M:Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAll``1(System.String,System.Action{``0})
+  name.vb: LoadAll(Of T)(String, Action(Of T))
+  fullName: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAll<T>(string, System.Action<T>)
+  fullName.vb: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAll(Of T)(String, System.Action(Of T))
+  nameWithType: AddressablesAdapter.LoadAll<T>(string, Action<T>)
+  nameWithType.vb: AddressablesAdapter.LoadAll(Of T)(String, Action(Of T))
+- uid: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAsync*
+  name: LoadAsync
+  href: api/Lunar.Adapters.Unity.Addressables.AddressablesAdapter.html#Lunar_Adapters_Unity_Addressables_AddressablesAdapter_LoadAsync_
+  commentId: Overload:Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAsync
+  isSpec: "True"
+  fullName: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAsync
+  nameWithType: AddressablesAdapter.LoadAsync
+- uid: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAsync``1(System.String,System.Threading.CancellationToken)
+  name: LoadAsync<T>(string, CancellationToken)
+  href: api/Lunar.Adapters.Unity.Addressables.AddressablesAdapter.html#Lunar_Adapters_Unity_Addressables_AddressablesAdapter_LoadAsync__1_System_String_System_Threading_CancellationToken_
+  commentId: M:Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAsync``1(System.String,System.Threading.CancellationToken)
+  name.vb: LoadAsync(Of T)(String, CancellationToken)
+  fullName: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAsync<T>(string, System.Threading.CancellationToken)
+  fullName.vb: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.LoadAsync(Of T)(String, System.Threading.CancellationToken)
+  nameWithType: AddressablesAdapter.LoadAsync<T>(string, CancellationToken)
+  nameWithType.vb: AddressablesAdapter.LoadAsync(Of T)(String, CancellationToken)
+- uid: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.Load``1(System.String)
+  name: Load<T>(string)
+  href: api/Lunar.Adapters.Unity.Addressables.AddressablesAdapter.html#Lunar_Adapters_Unity_Addressables_AddressablesAdapter_Load__1_System_String_
+  commentId: M:Lunar.Adapters.Unity.Addressables.AddressablesAdapter.Load``1(System.String)
+  name.vb: Load(Of T)(String)
+  fullName: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.Load<T>(string)
+  fullName.vb: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.Load(Of T)(String)
+  nameWithType: AddressablesAdapter.Load<T>(string)
+  nameWithType.vb: AddressablesAdapter.Load(Of T)(String)
+- uid: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.Release*
+  name: Release
+  href: api/Lunar.Adapters.Unity.Addressables.AddressablesAdapter.html#Lunar_Adapters_Unity_Addressables_AddressablesAdapter_Release_
+  commentId: Overload:Lunar.Adapters.Unity.Addressables.AddressablesAdapter.Release
+  isSpec: "True"
+  fullName: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.Release
+  nameWithType: AddressablesAdapter.Release
+- uid: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.Release``1(``0)
+  name: Release<T>(T)
+  href: api/Lunar.Adapters.Unity.Addressables.AddressablesAdapter.html#Lunar_Adapters_Unity_Addressables_AddressablesAdapter_Release__1___0_
+  commentId: M:Lunar.Adapters.Unity.Addressables.AddressablesAdapter.Release``1(``0)
+  name.vb: Release(Of T)(T)
+  fullName: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.Release<T>(T)
+  fullName.vb: Lunar.Adapters.Unity.Addressables.AddressablesAdapter.Release(Of T)(T)
+  nameWithType: AddressablesAdapter.Release<T>(T)
+  nameWithType.vb: AddressablesAdapter.Release(Of T)(T)
+- uid: Lunar.Adapters.Unity.Addressables.Tests
+  name: Lunar.Adapters.Unity.Addressables.Tests
+  href: api/Lunar.Adapters.Unity.Addressables.Tests.html
+  commentId: N:Lunar.Adapters.Unity.Addressables.Tests
+  fullName: Lunar.Adapters.Unity.Addressables.Tests
+  nameWithType: Lunar.Adapters.Unity.Addressables.Tests
+- uid: Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests
+  name: AddressablesAdapterTypeValidationTests
+  href: api/Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.html
+  commentId: T:Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests
+  fullName: Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests
+  nameWithType: AddressablesAdapterTypeValidationTests
+- uid: Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.LoadAllAsync_StringPath_ThrowsImmediately_ForNonUnityType
+  name: LoadAllAsync_StringPath_ThrowsImmediately_ForNonUnityType()
+  href: api/Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.html#Lunar_Adapters_Unity_Addressables_Tests_AddressablesAdapterTypeValidationTests_LoadAllAsync_StringPath_ThrowsImmediately_ForNonUnityType
+  commentId: M:Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.LoadAllAsync_StringPath_ThrowsImmediately_ForNonUnityType
+  fullName: Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.LoadAllAsync_StringPath_ThrowsImmediately_ForNonUnityType()
+  nameWithType: AddressablesAdapterTypeValidationTests.LoadAllAsync_StringPath_ThrowsImmediately_ForNonUnityType()
+- uid: Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.LoadAllAsync_StringPath_ThrowsImmediately_ForNonUnityType*
+  name: LoadAllAsync_StringPath_ThrowsImmediately_ForNonUnityType
+  href: api/Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.html#Lunar_Adapters_Unity_Addressables_Tests_AddressablesAdapterTypeValidationTests_LoadAllAsync_StringPath_ThrowsImmediately_ForNonUnityType_
+  commentId: Overload:Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.LoadAllAsync_StringPath_ThrowsImmediately_ForNonUnityType
+  isSpec: "True"
+  fullName: Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.LoadAllAsync_StringPath_ThrowsImmediately_ForNonUnityType
+  nameWithType: AddressablesAdapterTypeValidationTests.LoadAllAsync_StringPath_ThrowsImmediately_ForNonUnityType
+- uid: Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.LoadAsync_ThrowsImmediately_ForNonUnityType
+  name: LoadAsync_ThrowsImmediately_ForNonUnityType()
+  href: api/Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.html#Lunar_Adapters_Unity_Addressables_Tests_AddressablesAdapterTypeValidationTests_LoadAsync_ThrowsImmediately_ForNonUnityType
+  commentId: M:Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.LoadAsync_ThrowsImmediately_ForNonUnityType
+  fullName: Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.LoadAsync_ThrowsImmediately_ForNonUnityType()
+  nameWithType: AddressablesAdapterTypeValidationTests.LoadAsync_ThrowsImmediately_ForNonUnityType()
+- uid: Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.LoadAsync_ThrowsImmediately_ForNonUnityType*
+  name: LoadAsync_ThrowsImmediately_ForNonUnityType
+  href: api/Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.html#Lunar_Adapters_Unity_Addressables_Tests_AddressablesAdapterTypeValidationTests_LoadAsync_ThrowsImmediately_ForNonUnityType_
+  commentId: Overload:Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.LoadAsync_ThrowsImmediately_ForNonUnityType
+  isSpec: "True"
+  fullName: Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.LoadAsync_ThrowsImmediately_ForNonUnityType
+  nameWithType: AddressablesAdapterTypeValidationTests.LoadAsync_ThrowsImmediately_ForNonUnityType
+- uid: Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.Obsolete_LoadAll_Static_ThrowsImmediately_ForNonUnityType
+  name: Obsolete_LoadAll_Static_ThrowsImmediately_ForNonUnityType()
+  href: api/Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.html#Lunar_Adapters_Unity_Addressables_Tests_AddressablesAdapterTypeValidationTests_Obsolete_LoadAll_Static_ThrowsImmediately_ForNonUnityType
+  commentId: M:Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.Obsolete_LoadAll_Static_ThrowsImmediately_ForNonUnityType
+  fullName: Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.Obsolete_LoadAll_Static_ThrowsImmediately_ForNonUnityType()
+  nameWithType: AddressablesAdapterTypeValidationTests.Obsolete_LoadAll_Static_ThrowsImmediately_ForNonUnityType()
+- uid: Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.Obsolete_LoadAll_Static_ThrowsImmediately_ForNonUnityType*
+  name: Obsolete_LoadAll_Static_ThrowsImmediately_ForNonUnityType
+  href: api/Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.html#Lunar_Adapters_Unity_Addressables_Tests_AddressablesAdapterTypeValidationTests_Obsolete_LoadAll_Static_ThrowsImmediately_ForNonUnityType_
+  commentId: Overload:Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.Obsolete_LoadAll_Static_ThrowsImmediately_ForNonUnityType
+  isSpec: "True"
+  fullName: Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.Obsolete_LoadAll_Static_ThrowsImmediately_ForNonUnityType
+  nameWithType: AddressablesAdapterTypeValidationTests.Obsolete_LoadAll_Static_ThrowsImmediately_ForNonUnityType
+- uid: Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.SetUp
+  name: SetUp()
+  href: api/Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.html#Lunar_Adapters_Unity_Addressables_Tests_AddressablesAdapterTypeValidationTests_SetUp
+  commentId: M:Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.SetUp
+  fullName: Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.SetUp()
+  nameWithType: AddressablesAdapterTypeValidationTests.SetUp()
+- uid: Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.SetUp*
+  name: SetUp
+  href: api/Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.html#Lunar_Adapters_Unity_Addressables_Tests_AddressablesAdapterTypeValidationTests_SetUp_
+  commentId: Overload:Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.SetUp
+  isSpec: "True"
+  fullName: Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.SetUp
+  nameWithType: AddressablesAdapterTypeValidationTests.SetUp

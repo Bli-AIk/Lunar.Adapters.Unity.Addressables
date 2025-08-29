@@ -1,0 +1,147 @@
+{
+  "sitemap": {
+    "baseUrl": "https://bli-aik.github.io/Lunar.Adapters.Unity.Addressables/"
+  },
+  "source_base_path": "/home/runner/work/Lunar.Adapters.Unity.Addressables/Lunar.Adapters.Unity.Addressables/Documentation~",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Lunar.Adapters.Unity.Addressables.AddressablesAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Lunar.Adapters.Unity.Addressables.AddressablesAdapter.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Lunar.Adapters.Unity.Addressables.AddressablesAdapter",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Lunar.Adapters.Unity.Addressables.Tests.AddressablesAdapterTypeValidationTests",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Lunar.Adapters.Unity.Addressables.Tests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Lunar.Adapters.Unity.Addressables.Tests.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Lunar.Adapters.Unity.Addressables.Tests",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Lunar.Adapters.Unity.Addressables.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Lunar.Adapters.Unity.Addressables.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Lunar.Adapters.Unity.Addressables",
+      "Summary": null
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "api/toc.json"
+        },
+        ".html": {
+          "relative_path": "api/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "license/LICENSE.md",
+      "output": {
+        ".html": {
+          "relative_path": "license/LICENSE.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "license/toc.md",
+      "output": {
+        ".json": {
+          "relative_path": "license/toc.json"
+        },
+        ".html": {
+          "relative_path": "license/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "toc.json"
+        },
+        ".html": {
+          "relative_path": "toc.html"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
